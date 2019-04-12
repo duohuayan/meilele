@@ -1,0 +1,46 @@
+.margin{margin:0 auto;width:1190px}
+.click{height:50px;background:#8432a6;}
+.click .discount{margin-left:150px}
+
+.header{}
+.header .headers{padding:30px 0;}
+.header .headers .logo{float:left;display:inline-block;margin-top:-4px;height:56px;}
+.header .headers .help{float:right;width:180px;padding-top:40px;text-align: right;font-size:14px;}
+
+
+#zhuce{border:1px solid #d7d7d7;padding:40px;margin-bottom:70px;box-sizing: border-box;}
+#zhuce .zhucel{float:left;width: 768px;border-right: 1px solid #ddd;color: #555;}
+#zhuce .zhucel .box{margin:20px 0;position:relative}
+#zhuce .zhucel .box .tips{width: 100px;display: inline-block;text-align: right;font:14px/42px "";}
+#zhuce .zhucel .box .tips .red{color:#f00}
+#zhuce .zhucel .box .txt{height: 40px;line-height: 40px;width: 296px;border: 1px solid #d5d5d5;font-size: 14px;padding: 0 5px;}
+#zhuce .zhucel .box .error{padding: 5px;line-height: 15px;height: 28px;top:2px;visibility: visible;display:inline-block;width:253px;position: absolute;display:none;color:#f00;border:1px solid #f00;margin-left:5px;}
+#zhuce .zhucel .consent{line-height: 18px;padding: 10px 0 20px 100px;}
+#zhuce .zhucel .consent a{color:#4a92f5}
+#zhuce .zhucel .box-btn{padding-left:100px;}
+#zhuce .zhucel .btn{cursor: pointer;background: #cf000e;width: 308px;height: 42px;padding:1px 6px;text-align: center;color:#fff;font:700 16px/42px "";box-sizing: border-box;}
+#zhuce .zhucel .re{padding-left:100px;margin-bottom:20px;display:none}
+#zhuce .zhucel .return{height:28px;width: 308px;border:1px solid #f00;box-sizing: border-box;color:#f00;padding:5px 20px;font:14px/18px "";}
+
+
+
+
+#footer{background:#1f1f1f;padding:21px 0 30px;mar;gin-top:20px}
+#footer a:hover{color:#e62318}
+#footer .foot-view{padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid #2e2e2e;}
+#footer .foot-view li{position:relative;height:20px;line-height: 20px;overflow:hidden;color:#777;}
+#footer .foot-view li .switch{padding-right:25px;}
+#footer .foot-view li .switch span{margin-right:10px;}
+#footer .foot-view li .switch a{margin-right:20px;}
+
+#footer .foot-copy{position:relative;color:#777;}
+#footer .foot-copy .copyl{height:40px;}
+#footer .foot-copy .copyl li{height:20px;line-height: 20px;overflow:hidden;color:#777;}
+
+#footer .foot-copy .copyr{position: absolute;top:0;right:0;height:40px;}
+#footer .foot-copy .copyr li{float:left;height:40px;padding-left:15px}
+#footer .foot-copy .copyr li a{color:#777;}
+#footer .foot-copy .copyr li a img{width:27px;height:22px;margin:9px 5px 0 0;}
+#footer .foot-copy .copyr li a span{display:inline-block;line-height: 20px;width:50px;vertical-align: top;}
+#footer .foot-copy .copyr li a span.tee{line-height: 40px;}
+#footer .foot-copy .copyr li a:hover span{color:#e62318}

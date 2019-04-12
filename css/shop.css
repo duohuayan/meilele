@@ -1,0 +1,39 @@
+.margin{margin:0 auto;width:1190px}
+.click{height:50px;background:#8432a6;}
+.click .discount{margin-left:150px}
+
+.header{}
+.header .headers{padding:30px 0;}
+.header .headers .logo{float:left;display:inline-block;margin-top:-4px;height:56px;}
+.header .headers .help{float:right;width:180px;padding-top:40px;text-align: right;font-size:14px;}
+
+
+
+
+
+
+#main{margin:100px 0;}
+#main em{display: block;width: 100px;line-height: 30px;text-align: center;background: deepskyblue;border-radius: 6px;margin: 0 auto;margin-top: 10px;font-style: normal;cursor: pointer;color: #fff;}
+input[type="number"]{width:50px}
+
+
+
+#footer{background:#1f1f1f;padding:21px 0 30px;mar;gin-top:20px}
+#footer a:hover{color:#e62318}
+#footer .foot-view{padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid #2e2e2e;}
+#footer .foot-view li{position:relative;height:20px;line-height: 20px;overflow:hidden;color:#777;}
+#footer .foot-view li .switch{padding-right:25px;}
+#footer .foot-view li .switch span{margin-right:10px;}
+#footer .foot-view li .switch a{margin-right:20px;}
+
+#footer .foot-copy{position:relative;color:#777;}
+#footer .foot-copy .copyl{height:40px;}
+#footer .foot-copy .copyl li{height:20px;line-height: 20px;overflow:hidden;color:#777;}
+
+#footer .foot-copy .copyr{position: absolute;top:0;right:0;height:40px;}
+#footer .foot-copy .copyr li{float:left;height:40px;padding-left:15px}
+#footer .foot-copy .copyr li a{color:#777;}
+#footer .foot-copy .copyr li a img{width:27px;height:22px;margin:9px 5px 0 0;}
+#footer .foot-copy .copyr li a span{display:inline-block;line-height: 20px;width:50px;vertical-align: top;}
+#footer .foot-copy .copyr li a span.tee{line-height: 40px;}
+#footer .foot-copy .copyr li a:hover span{color:#e62318}

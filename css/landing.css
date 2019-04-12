@@ -1,0 +1,51 @@
+.margin{margin:0 auto;width:1190px}
+.click{height:50px;background:#8432a6;}
+.click .discount{margin-left:150px}
+
+.header{}
+.header .headers{padding:30px 0;}
+.header .headers .logo{float:left;display:inline-block;margin-top:-4px;height:56px;}
+.header .headers .help{float:right;width:180px;padding-top:40px;text-align: right;font-size:14px;}
+
+#main{min-width:1190;background:#e62318;padding:72px 0;}
+#main .cont{width:1070px;margin:0 auto;}
+#main .contl{float:left;}
+#main .contr{float:right;width: 306px; min-height: 371px;background: #fff;padding: 22px 27px 20px 27px}
+
+#main .contr .switch-type{width:306px;height:45px;font:700 22px/45px "";text-align: center;margin-bottom:38px;color:#e62318;border-bottom:1px solid #f4f4f4}
+#main .contr .login-form{width:306px;}
+#main .contr .login-form .select{height:40px;line-height: 40px;border:1px solid #ddd;margin-bottom:25px}
+#main .contr .login-form .select .iuser{float:left;display:inline-block;margin:10px 16px 10px 11px;width:19px;height:19px;background:url(../img/tel.png);}
+#main .contr .login-form .select .txt{float:left;height:20px;font-size:13px;padding:10px 0;width:254px;border:0;} 
+
+#main .contr .login-form .forget{margin-top:-12px;width:306px;font-size:14px;color:#333;}
+#main .contr .login-form .forget a{float:right}
+#main .contr .login-form .btn{display:block;margin:24px 0 17px 0;height:42px;font:700 16px/42px "";text-align:center;background:#e62318;color:#fff;border-radius: 3px;}
+#main .contr .return{height:28px;border:1px solid #f00;box-sizing: border-box;color:#f00;padding:5px 20px;font:14px/18px "";display:none}
+#main .contr .saoma{margin-top:16px;margin-left:-12px;vertical-align: middle;width:340px}
+#main .contr .saoma a{width:109px;height:28px;padding-left:13px;box-sizing: border-box;color:#333;display:inline-block;border-top:#ddd}
+#main .contr .saoma a i{width:28px;height:28px;background:url(../img/weixin.png);display:inline-block;vertical-align: middle;margin-right:5px;}
+
+#footer{background:#1f1f1f;padding:21px 0 30px;mar;gin-top:20px}
+#footer a:hover{color:#e62318}
+#footer .foot-view{padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid #2e2e2e;}
+#footer .foot-view li{position:relative;height:20px;line-height: 20px;overflow:hidden;color:#777;}
+#footer .foot-view li .switch{padding-right:25px;}
+#footer .foot-view li .switch span{margin-right:10px;}
+#footer .foot-view li .switch a{margin-right:20px;}
+
+#footer .foot-copy{position:relative;color:#777;}
+#footer .foot-copy .copyl{height:40px;}
+#footer .foot-copy .copyl li{height:20px;line-height: 20px;overflow:hidden;color:#777;}
+
+#footer .foot-copy .copyr{position: absolute;top:0;right:0;height:40px;}
+#footer .foot-copy .copyr li{float:left;height:40px;padding-left:15px}
+#footer .foot-copy .copyr li a{color:#777;}
+#footer .foot-copy .copyr li a img{width:27px;height:22px;margin:9px 5px 0 0;}
+#footer .foot-copy .copyr li a span{display:inline-block;line-height: 20px;width:50px;vertical-align: top;}
+#footer .foot-copy .copyr li a span.tee{line-height: 40px;}
+#footer .foot-copy .copyr li a:hover span{color:#e62318}
+
+
+
+
